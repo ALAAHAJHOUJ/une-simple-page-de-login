@@ -15,7 +15,7 @@ min-width: 400px;
 {
 width:400px;
 height:500px;
-box-shadow: -4px 28px 48px -19px rgb(163, 155, 155);
+box-shadow: 2px 37px 29px -18px rgba(0,0,0,0.23);
 border-radius: 15px;
 background-color: white;
 display: grid;
